@@ -105,7 +105,7 @@ Open the notebook file and run cells sequentially to perform:
 
 ## 🙋‍♂️ Author
 
-- Name: *Abhishek karnam*
+- Name: *Abhishek karnam,Amogh L, Anav M,Aarya J*
 - Email: *abhishekk.btech23@rvu.edu.in*
 - GitHub: [Abhishekkarnam](https://github.com/Abhishekkarnam)
 
