@@ -62,7 +62,7 @@ A binary target variable `Successful` was created based on whether the `Global_S
 ### Step 1: Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/video-game-sales-ml.git
+git clone (https://github.com/Abhishekkarnam/Video-Games-Sales-Prediction-.git)
 cd video-game-sales-ml
 ```
 
@@ -105,9 +105,9 @@ Open the notebook file and run cells sequentially to perform:
 
 ## 🙋‍♂️ Author
 
-- Name: *Your Name*
-- Email: *your.email@example.com*
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Name: *Abhishek karnam*
+- Email: *abhishekk.btech23@rvu.edu.in*
+- GitHub: [Abhishekkarnam](https://github.com/Abhishekkarnam)
 
 ---
 
